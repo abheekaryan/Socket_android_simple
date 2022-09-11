@@ -1,6 +1,6 @@
 # Socket_android_simple
-Read read.md
-This android app uses socket.io and it is a simple implimentation of how socket io works.
+
+*This android app uses socket.io and it is a simple implimentation of how socket io works.*
 
 For server socket.io implimentation (written in node.js) go here: https://github.com/abheekaryan/AndroidSocketTest
 Note: packages needed via npm(for server)
