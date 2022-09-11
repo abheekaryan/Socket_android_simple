@@ -10,7 +10,8 @@ Note: packages needed via npm(for server)
 
 For client:
 Do this.
-    1. AndroidManifest.xml file : <uses-permission android:name="android.permission.INTERNET" /> 
+    1. AndroidManifest.xml file : 
+    // <uses-permission android:name="android.permission.INTERNET" /> 
       
     2. build.gradle module level: 
         implementation ('io.socket:socket.io-client:2.1.0') {
