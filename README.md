@@ -1,14 +1,16 @@
-# Socket_android_simple
-
+# socket.io-android
+### simple handshake
 *This android app uses socket.io and it is a simple implimentation of how socket io works.*
 
-For server socket.io implimentation (written in node.js) go here: https://github.com/abheekaryan/AndroidSocketTest
+### For server socket.io implimentation (written in node.js) go here:
+[click](https://github.com/abheekaryan/AndroidSocketTest)
+
 Note: packages needed via npm(for server)
      1. socket.io (terminal- npm intstall socket.io)
      2. express (terminal- npm install express)
      3. nodemon (terminal- npm install nodemon)
 
-For client:
+### For client:
 Do this.
     1. AndroidManifest.xml file : 
      uses-permission android:name="android.permission.INTERNET" 
